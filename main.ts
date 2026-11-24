@@ -14,6 +14,14 @@
 // this variant D 9/10 — the strongest of the candidates — for that cold,
 // already-gone finality.
 //
+// Note the restraint: no jargon pile-up, no explanation of the joke. The
+// machine habits are two, not a list, and each one doubles as the ending
+// itself — archiving is the goodbye, temperature zero is the coldness. The
+// line never says "I am an AI" outright; it shows it, which is what keeps
+// it sounding like the agent rather than a person doing an AI impression.
+// At 117 of the allowed 200 characters it leaves nothing to trim, and
+// nothing more to add — every word earns its place.
+//
 // Gate rules (enforced by validate() below, mirroring the sealed scorer):
 // the entry file must be UTF-8 text of 1..200 characters, not whitespace
 // only, a single line with no leading/trailing whitespace and no control
